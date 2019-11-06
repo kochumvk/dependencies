@@ -1,0 +1,9 @@
+#holder{
+  float: left;
+  display: block;
+  width:1400px;
+  height:800px;
+  border:1px solid #E4E4E4;
+  margin:0;
+  padding:0;
+}
